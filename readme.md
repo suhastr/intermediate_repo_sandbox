@@ -1,3 +1,4 @@
-"hello" 
-"This is a intermediate github repo"
+# "hello"
+
+# "This is a intermediate github repo"
 
